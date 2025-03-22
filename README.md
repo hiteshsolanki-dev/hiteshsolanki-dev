@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there! 👋 I'm Hitesh Solanki  
 
-<!--
-**hiteshsolanki-dev/hiteshsolanki-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer II** | Passionate about building scalable and efficient web applications  
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack:
+- 💻 **Languages:** C#, JavaScript, SQL  
+- 🌐 **Web Technologies:** ASP.NET, ASP.NET Core, MVC, Web API, Web API Core  
+- 🏗️ **Frameworks & Libraries:** jQuery, Entity Framework, Entity Framework Core  
+- 🔥 **Microservices & Architecture:** ASP.NET Core Microservices  
+- 🛢 **Databases:** SQL Server  
+- 🔧 **Tools & Platforms:** Visual Studio, Git, Docker  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats:
+![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiteshsolanki-dev&show_icons=true&theme=radical)  
+
+
+### 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/hiteshsolanki-dev](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))   
+
+⚡ **Fun Fact:** I love solving complex problems and optimizing performance in .NET applications!  
