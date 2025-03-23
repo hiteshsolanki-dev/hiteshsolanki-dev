@@ -15,6 +15,6 @@
 
 
 ### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/hiteshsolanki-dev](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))   
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hitesh-solanki-a83a50161/)
 
 ⚡ **Fun Fact:** I love solving complex problems and optimizing performance in .NET applications!  
